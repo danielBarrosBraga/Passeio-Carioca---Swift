@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pontosTuristicos</key>
+	<array>
+		<dict>
+			<key>nome</key>
+			<string>Aterro do Flamengo</string>
+			<key>image</key>
+			<string>aterroDoFlamengo.jpg</string>
+			<key>description</key>
+			<string>Aterro do Flamengo é um complexo de lazer da cidade do Rio de Janeiro, no Brasil. Foi construído sobre aterros sucessivos na baía de Guanabara. O parque estende-se do Aeroporto Santos-Dumont, no bairro do Centro, ao início da Praia de Botafogo, na zona sul, possuindo duas áreas distintas: a primeira no bairro da Glória sedia o Museu de Arte Moderna (MAM), o Monumento Aos Mortos da II Guerra Mundial, a Marina da Glória, o Memorial Getúlio Vargas, o Cine Glória, o Monumento a Estácio de Sá, a casa de shows Vivo Rio, a Avenida Infante D. Henrique, um restaurante e a pequena Praia da Glória, essa região é chamada Parque Brigadeiro Eduardo Gomes, o qual é o nome oficial do complexo. A segunda, separada da primeira por um pequeno quebra-mar localiza-se no bairro do Flamengo, e possui quadras destinadas à prática de esportes, o Museu Carmen Miranda, a Avenida das Nações Unidas e a Praia do Flamengo, sendo chamada propriamente de Parque do Flamengo. Em sua configuração atual, o parque foi inaugurado em 1965, com 1200000 metros quadrados.</string>
+			<key>address</key>
+			<string>Praia do Flamengo, 116 - Flamengo, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Parque</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>tree.jpg</string>
+			<key>bairro</key>
+			<string>Flamengo</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Aterro_do_Flamengo</string>
+			<key>detalheFoto</key>
+			<string>aterroDoFlamengoD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Biblioteca Nacional do Brasil</string>
+			<key>image</key>
+			<string>bibliotecaNacionalDoBrasil.jpg</string>
+			<key>description</key>
+			<string>Biblioteca Nacional, também chamada de Biblioteca Nacional do Brasil, cujo nome oficial institucional é Fundação Biblioteca Nacional, é a depositária do patrimônio bibliográfico e documental do Brasil, considerada pela UNESCO como a sétima maior biblioteca nacional do mundo e, também, é a maior biblioteca da América Latina. Entre suas várias responsabilidades incluem-se a de preservar, atualizar e divulgar uma coleção com mais de oito milhões de peças, que teve início com a chegada da Real Biblioteca de Portugal ao Brasil e cresce constantemente, a partir de doações, aquisições e com o depósito legal.</string>
+			<key>address</key>
+			<string>Av. Rio Branco, 219 - Centro, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Biblioteca</string>
+			<key>nota</key>
+			<string>Nota 4/5</string>
+			<key>indoorOutdoor</key>
+			<string>home.jpg</string>
+			<key>bairro</key>
+			<string>Centro</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Biblioteca_Nacional_do_Brasil</string>
+			<key>detalheFoto</key>
+			<string>bibliotecaNacionalDoBrasilD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Catedral de São Sebastião do Rio de Janeiro</string>
+			<key>image</key>
+			<string>catedralDeSaoSebastiao.jpg</string>
+			<key>description</key>
+			<string>A Catedral de São Sebastião do Rio de Janeiro, também conhecida como Catedral Metropolitana do Rio de Janeiro, é uma catedral católica localizada no Centro da cidade do Rio de Janeiro, no Brasil. Foi inaugurada em 1979, substituindo, como catedral da cidade, a Igreja de Nossa Senhora do Carmo. Em estilo moderno, apresenta formato cônico, com 106 metros de diâmetro, 75 metros de altura externa, 64 metros de altura interna e capacidade para 20 000 pessoas em pé. A beleza da edificação, de linhas retas e sóbrias, deve-se aos vitrais coloridos rasgados nas paredes até a cúpula. Seu projeto e execução foram coordenados pelo monsenhor Ivo Antônio Calliari (1918 - 2005).</string>
+			<key>address</key>
+			<string>Av. Chile, 245 - Centro, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Igreja</string>
+			<key>nota</key>
+			<string>Nota 3/5</string>
+			<key>indoorOutdoor</key>
+			<string>home.jpg</string>
+			<key>bairro</key>
+			<string>Centro</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Catedral_de_S%C3%A3o_Sebasti%C3%A3o_do_Rio_de_Janeiro</string>
+			<key>detalheFoto</key>
+			<string>catedralDeSebastiaoD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Centro Cultural Banco do Brasil</string>
+			<key>image</key>
+			<string>centroCulturalBancoDoBrasil.jpg</string>
+			<key>description</key>
+			<string>O Centro Cultural Banco do Brasil (CCBB) é uma rede de espaços culturais geridas e mantidas pelo Banco do Brasil, com o objetivo de disseminar a cultura pela população. Atualmente, encontra-se instalado em quatro capitais brasileiras: Rio de Janeiro, São Paulo, Belo Horizonte e Brasília.</string>
+			<key>address</key>
+			<string>R. Primeiro de Março, 66 - Centro, Rio de Janeiro - R</string>
+			<key>tipo</key>
+			<string>Arte</string>
+			<key>nota</key>
+			<string>Nota 4/5</string>
+			<key>indoorOutdoor</key>
+			<string>home.jpg</string>
+			<key>bairro</key>
+			<string>Centro</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Centro_Cultural_Banco_do_Brasil</string>
+			<key>detalheFoto</key>
+			<string>centroCulturalBancoBrasilD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Centro Luiz Gonzaga de Tradições Nordestinas</string>
+			<key>image</key>
+			<string>centroLuizGonzaga.jpg</string>
+			<key>description</key>
+			<string>O Centro Luiz Gonzaga de Tradições Nordestinas, também conhecido como Feira de São Cristóvão, é um pavilhão que promove a cultura e o comércio de produtos nordestinos. Localiza-se na cidade do Rio de Janeiro, no Brasil. Foi criado em homenagem a Luiz Gonzaga, o «Rei do Baião».</string>
+			<key>address</key>
+			<string>Campo de São Cristóvão, s/n - São Cristóvão, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Cultura</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>home.jpg</string>
+			<key>bairro</key>
+			<string>São Cristóvão</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Centro_Luiz_Gonzaga_de_Tradi%C3%A7%C3%B5es_Nordestinas</string>
+			<key>detalheFoto</key>
+			<string>centroLuizGonzagaD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Confeitaria Colombo</string>
+			<key>image</key>
+			<string>confeitariaColombo.jpg</string>
+			<key>description</key>
+			<string>A Confeitaria Colombo é uma confeitaria localizada no Centro da cidade do Rio de Janeiro, no Brasil. É um dos principais pontos turísticos da Região Central da cidade. O site U City Guides elegeu a Confeitaria Colombo um dos 10 mais belos cafés do mundo.</string>
+			<key>address</key>
+			<string>R. Gonçalves Dias, 32 - Centro, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Restaurante</string>
+			<key>nota</key>
+			<string>Nota 4/5</string>
+			<key>indoorOutdoor</key>
+			<string>home.jpg</string>
+			<key>bairro</key>
+			<string>Centro</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Confeitaria_Colombo</string>
+			<key>detalheFoto</key>
+			<string>confeitariaColomboD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Cristo Redentor</string>
+			<key>image</key>
+			<string>cristoRedentor.jpg</string>
+			<key>description</key>
+			<string>Cristo Redentor é uma estátua art déco que retrata Jesus Cristo, localizada no topo do morro do Corcovado, a 709 metros acima do nível do mar, no Parque Nacional da Tijuca, com vista para a maior parte da cidade do Rio de Janeiro, Brasil. Em 2007 foi eleito informalmente como uma das novas sete maravilhas do mundo. Em 2012 a UNESCO considerou o Cristo Redentor como parte da paisagem do Rio de Janeiro incluída na lista de Patrimônios da Humanidade.</string>
+			<key>address</key>
+			<string>Rua Cosme Velho, 513 - Cosme Velho, Rio de Janeiro - RJ </string>
+			<key>tipo</key>
+			<string>Monumento</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>tree.jpg</string>
+			<key>bairro</key>
+			<string>Alto da Boa Vista</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Cristo_Redentor</string>
+			<key>detalheFoto</key>
+			<string>cristoRedentorD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Estádio Maracanã</string>
+			<key>image</key>
+			<string>estadioMaracana.jpg</string>
+			<key>description</key>
+			<string>Estádio Jornalista Mário Filho, mais conhecido como Maracanã, o popular Maraca (&quot;semelhante a um chocalho&quot; em tupi-guarani, devido ao som de pássaros que viviam por ali), é um estádio de futebol localizado no Rio de Janeiro e inaugurado em 1950, durante o mandato do então General de Divisão e Prefeito do Distrito Federal do Rio de Janeiro Marechal Ângelo Mendes de Moraes, tendo sido utilizado na Copa do Mundo de Futebol daquele ano.</string>
+			<key>address</key>
+			<string>Av. Pres. Castelo Branco, Portão 3 - Maracanã, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Centro Esportivo</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>tree.jpg</string>
+			<key>bairro</key>
+			<string>Maracanã</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Est%C3%A1dio_do_Maracan%C3%A3</string>
+			<key>detalheFoto</key>
+			<string>maracanaD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Forte de Copacabana</string>
+			<key>image</key>
+			<string>forteDeCopacabana.jpg</string>
+			<key>description</key>
+			<string>O Forte de Copacabana localiza-se na ponta de Copacabana, ao final da praia e bairro de mesmo nome, na cidade do Rio de Janeiro, no Brasil. Oficialmente denominado como Museu Histórico do Exército / Forte de Copacabana (MHEx/FC), computa atualmente um fluxo de cerca de dez mil visitantes por mês, constituindo-se em um dos mais belos cartões-postais da cidade. O turista pode escolher entre a visita restrita (apenas às áreas externas) e a completa (incluindo o interior do forte e o Museu histórico-militar)</string>
+			<key>address</key>
+			<string>Av. Atlântica, Posto 6 - Copacabana, Rio de Janeiro - RJ (Forte de Copacabana)</string>
+			<key>tipo</key>
+			<string>Museu</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>tree.jpg</string>
+			<key>bairro</key>
+			<string>Copacabana</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Forte_de_Copacabana</string>
+			<key>detalheFoto</key>
+			<string>forteCopacabanaD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Igreja de Nossa Senhora da Candelária</string>
+			<key>image</key>
+			<string>igrejaDeNossaSenhoraDaCandelaria.jpg</string>
+			<key>description</key>
+			<string>A Igreja de Nossa Senhora da Candelária é um templo católico localizado no Centro da cidade do Rio de Janeiro, no Brasil. É um dos principais monumentos religiosos da cidade, tradicional palco de casamentos da sociedade carioca.</string>
+			<key>address</key>
+			<string>Praça Pio X, s/n - Centro, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Igreja</string>
+			<key>nota</key>
+			<string>Nota 3/5</string>
+			<key>indoorOutdoor</key>
+			<string>home.jpg</string>
+			<key>bairro</key>
+			<string>Centro</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Igreja_de_Nossa_Senhora_da_Candel%C3%A1ria</string>
+			<key>detalheFoto</key>
+			<string>igrejaNossaSenhoraD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Jardim Botânico do Rio de Janeiro</string>
+			<key>image</key>
+			<string>jardinBotanicoRJ.jpg</string>
+			<key>description</key>
+			<string>O Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, ou apenas Jardim Botânico do Rio de Janeiro, é um instituto de pesquisas e jardim botânico localizado no bairro do Jardim Botânico, na zona sul do município do Rio de Janeiro, no Brasil.</string>
+			<key>address</key>
+			<string>R. Jardim Botânico, 1008 - Jardim Botânico, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Parque</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>tree.jpg</string>
+			<key>bairro</key>
+			<string>Jardim Botânico</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Jardim_Bot%C3%A2nico_do_Rio_de_Janeiro</string>
+			<key>detalheFoto</key>
+			<string>jardimBotanicoD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Lagoa Rodrigo de Freitas</string>
+			<key>image</key>
+			<string>lagoaRodrigoDeFreitas.jpg</string>
+			<key>description</key>
+			<string>O Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, ou apenas Jardim Botânico do Rio de Janeiro, é um instituto de pesquisas e jardim botânico localizado no bairro do Jardim Botânico, na zona sul do município do Rio de Janeiro, no Brasil. Rodrigo de Freitas é uma lagoa localizada na Zona Sul da cidade do Rio de Janeiro, no Brasil. Embora receba as águas de diversos rios tributários que descem das encostas circundantes, entre os quais se destaca o Rio dos Macacos, apresenta águas salobras. A lagoa apresenta duas ilhas: Ilha Piraquê, na margem oeste,que abriga o Departamento Esportivo do Clube Naval; Ilha Caiçaras, na margem sul, que abriga o Clube dos Caiçaras, onde se realizaram as provas de esqui aquático dos Jogos Pan-Americanos de 2007.</string>
+			<key>address</key>
+			<string>Av. Borges de Medeiros, S/N - Lagoa, Rio De Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Parque</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>tree.jpg</string>
+			<key>bairro</key>
+			<string>Lagoa</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Lagoa_Rodrigo_de_Freitas</string>
+			<key>detalheFoto</key>
+			<string>lagoaRodrigoDeFreitasD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Lapa</string>
+			<key>image</key>
+			<string>lapa.jpg</string>
+			<key>description</key>
+			<string>A Lapa é um bairro de classe média da Zona Central do município do Rio de Janeiro, no Brasil. Possui uma grande variedade de bares, restaurantes, boates e pubs temáticos, que atendem a todos os gostos ao longo de suas treze ruas. Sendo conhecido como o berço da boemia carioca, na atual efervescência do bairro, quinze novos estabelecimentos foram abertos apenas em 2009. Também é famosa pela arquitetura, a começar pelo Aqueduto da Carioca, sua principal referência e cartão-postal, que foi construído para funcionar como aqueduto nos tempos do Brasil Colonial e que, desde 1896, serve como via para o bonde que liga o Centro da cidade ao bairro de Santa Teresa.</string>
+			<key>address</key>
+			<string>Lapa, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Cultura</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>home.jpg</string>
+			<key>bairro</key>
+			<string>Lapa</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Lapa_(bairro_do_Rio_de_Janeiro)</string>
+			<key>detalheFoto</key>
+			<string>lapaD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Museu Aeroespacial</string>
+			<key>image</key>
+			<string>museuAeroespacial.jpg</string>
+			<key>description</key>
+			<string>O Museu Aeroespacial - Musal é o maior e mais importante museu de aviação do Brasil. Localizado no Campo dos Afonsos, berço da aviação brasileira, na cidade do Rio de Janeiro, foi inaugurado em 18 de outubro de 1976. Está subordinado administrativamente ao Instituto Histórico-Cultural da Aeronáutica (INCAER) desde 1986.</string>
+			<key>address</key>
+			<string>Av. Marechal Fontenele, 2000 - Campo dos Afonsos, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Museu</string>
+			<key>nota</key>
+			<string>Nota 3/5</string>
+			<key>indoorOutdoor</key>
+			<string>home.jpg</string>
+			<key>bairro</key>
+			<string>Campo dos Afonsos</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Museu_Aeroespacial</string>
+			<key>detalheFoto</key>
+			<string>museuAeroespacialD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Museu de Arte Moderna do Rio de Janeiro</string>
+			<key>image</key>
+			<string>museuDeArteModerna.jpg</string>
+			<key>description</key>
+			<string>O Museu de Arte Moderna do Rio de Janeiro (MAM) é uma das mais importantes instituições culturais do Brasil. Localiza-se na cidade do Rio de Janeiro, no Parque do Flamengo, próximo ao Aeroporto Santos Dumont. Seu edifício-sede, a obra mais conhecida do arquiteto carioca Affonso Reidy, segue a orientação da arquitetura racionalista, destacando-se pelo emprego de estruturas vazadas e pela integração com o entorno.</string>
+			<key>address</key>
+			<string>Av. Infante Dom Henrique, 85 - Parque do Flamengo, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Museu</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>home.jpg</string>
+			<key>bairro</key>
+			<string>Flamengo</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Museu_de_Arte_Moderna_do_Rio_de_Janeiro</string>
+			<key>detalheFoto</key>
+			<string>museuArteModernaD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Museu do Amanhã</string>
+			<key>image</key>
+			<string>museuDoAmanha.jpg</string>
+			<key>description</key>
+			<string>Museu do Amanhã é um museu construído no município do Rio de Janeiro, Brasil. O prédio, projeto do arquiteto espanhol Santiago Calatrava, foi erguido ao lado da Praça Mauá, na zona portuária (mais precisamente no Píer Mauá). Sua construção teve o apoio da Fundação Roberto Marinho e teve o custo total de cerca de 230 milhões de reais. O edifício foi inaugurado em 17 de dezembro de 2015 com a presença da presidente Dilma Rousseff e recebeu cerca de 25 mil visitantes em seu primeiro final de semana de funcionamento.</string>
+			<key>address</key>
+			<string>Praça Mauá, 1 - Centro, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Museu</string>
+			<key>nota</key>
+			<string>Nota 4/5</string>
+			<key>indoorOutdoor</key>
+			<string>home.jpg</string>
+			<key>bairro</key>
+			<string>Centro</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Museu_do_Amanh%C3%A3</string>
+			<key>detalheFoto</key>
+			<string>museuDoAmanhaD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Museu Nacional de Belas Artes</string>
+			<key>image</key>
+			<string>museuNacionalDeBelasArtes.jpg</string>
+			<key>description</key>
+			<string>O Museu Nacional de Belas Artes (MNBA) é um museu de arte localizado na cidade do Rio de Janeiro, no Brasil. É um dos mais importantes museus do gênero no país.</string>
+			<key>address</key>
+			<string>Av. Rio Branco, 199 - Centro, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Museu</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>home.jpg</string>
+			<key>bairro</key>
+			<string>Centro</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Museu_Nacional_de_Belas_Artes_(Brasil)</string>
+			<key>detalheFoto</key>
+			<string>museuNacionalBelasArtesD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Parque Lage</string>
+			<key>image</key>
+			<string>parqueLage.jpg</string>
+			<key>description</key>
+			<string>O Parque Henrique Lage é um parque público da cidade do Rio de Janeiro, localizado aos pés do morro do Corcovado, à rua Jardim Botânico. Possui uma área com mais de 52 hectares e foi tombado pelo Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN), em 14 de junho de 1957, como patrimônio histórico e cultural da cidade do Rio de Janeiro.O palacete abriga, desde 1975, a Escola de Artes Visuais, gerenciada pela Oca Lage - Organização Social sem fins lucrativos. Desde 2004, o Parque Lage é parte do Parque Nacional da Tijuca, sob a administração do Instituto Chico Mendes de Conservação da Biodiversidade.</string>
+			<key>address</key>
+			<string>R. Jardim Botânico, 414 - Jardim Botânico, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Parque</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>tree.jpg</string>
+			<key>bairro</key>
+			<string>Jardim Botânico</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Parque_Lage</string>
+			<key>detalheFoto</key>
+			<string>parqueLageD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Parque Nacional da Tijuca</string>
+			<key>image</key>
+			<string>parqueNacionalDaTijuca.jpg</string>
+			<key>description</key>
+			<string>O Parque Nacional da Tijuca é uma unidade de conservação brasileira de proteção integral da natureza localizada integralmente na cidade do Rio de Janeiro. Entre os pontos turísticos do parque, trilhas, grutas e cachoeiras, encontram-se marcos famosos da cidade, como a Pedra da Gávea, o Corcovado, e o Pico da Tijuca, ponto mais alto do parque, elevando-se 1.022 metros acima do nível do mar. De relevo montanhoso, inclui áreas do Maciço da Tijuca. É administrado pelo Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio).</string>
+			<key>address</key>
+			<string>Estrada da Cscatinha, 850 - Alto da Boa Vista, Rio de Janeiro - RJ (Parque Nacional da Tijuca)</string>
+			<key>tipo</key>
+			<string>Parque</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>tree.jpg</string>
+			<key>bairro</key>
+			<string>Alto da Boa Vista</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Parque_Nacional_da_Tijuca</string>
+			<key>detalheFoto</key>
+			<string>parqueNacionalTijucaD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Pão de Açucar</string>
+			<key>image</key>
+			<string>paoDeAcucar.jpg</string>
+			<key>description</key>
+			<string>Pão de Açúcar é um complexo de morros localizado no bairro da Urca é composto pelo morro do Pão de Açúcar (que dá nome ao complexo), morro da Urca e morro da Babilônia. Junto com a estátua do Cristo Redentor é o maior cartão-postal da cidade do Rio de Janeiro e um dos mais famosos do Brasil. Pelas características únicas, margeado pelas águas da baía de Guanabara, constitui-se em uma referência turística internacional para a cidade.</string>
+			<key>address</key>
+			<string>Av. Pasteur, 520 - Urca, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Montanha</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>tree.jpg</string>
+			<key>bairro</key>
+			<string>Urca</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/P%C3%A3o_de_A%C3%A7%C3%BAcar</string>
+			<key>detalheFoto</key>
+			<string>paoDeAcucarD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Praia de Copacabana</string>
+			<key>image</key>
+			<string>praiaDeCopacabana.jpg</string>
+			<key>description</key>
+			<string>A Praia de Copacabana é uma praia localizada no bairro de Copacabana, na Zona Sul da cidade do Rio de Janeiro, no Brasil. Considerada uma das praias mais famosas do mundo, foi popularmente apelidada de Princesinha do Mar.</string>
+			<key>address</key>
+			<string>Av. Atlântica, S/N - Copacabana, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Praia</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>tree.jpg</string>
+			<key>bairro</key>
+			<string>Copacabana</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Praia_de_Copacabana</string>
+			<key>detalheFoto</key>
+			<string>praiaCopacabanaD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Praia de Ipanema</string>
+			<key>image</key>
+			<string>praiaDeIpanema.jpg</string>
+			<key>description</key>
+			<string>A praia de Ipanema localiza-se no bairro de Ipanema, na zona Sul da cidade do Rio de Janeiro, no Brasil. Ela tem 2,6 km de extensão e fica perto do bairro Leblon que é um complemento dela. Uma das praias mais famosas da cidade, perde em popularidade apenas para a praia de Copacabana, onde é realizado todos os anos o reveillon da cidade.</string>
+			<key>address</key>
+			<string>Av. Vieira Souto, S/N - Ipanema, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Praia</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>tree.jpg</string>
+			<key>bairro</key>
+			<string>Ipanema</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Praia_de_Ipanema</string>
+			<key>detalheFoto</key>
+			<string>praiaIpanemaD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Quinta da Boa Vista</string>
+			<key>image</key>
+			<string>quintaDaBoaVista.jpg</string>
+			<key>description</key>
+			<string>A Quinta da Boa Vista é um parque municipal no Bairro Imperial de São Cristóvão, localizado na Zona Norte da cidade do Rio de Janeiro, Brasil.</string>
+			<key>address</key>
+			<string>Av. Pedro II, s/n - São Cristóvão, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Parque</string>
+			<key>nota</key>
+			<string>Nota 4/5</string>
+			<key>indoorOutdoor</key>
+			<string>tree.jpg</string>
+			<key>bairro</key>
+			<string>São Cristóvão</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Quinta_da_Boa_Vista</string>
+			<key>detalheFoto</key>
+			<string>quintaDaBoaVistaD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Santa Teresa</string>
+			<key>image</key>
+			<string>santaTeresa.jpg</string>
+			<key>description</key>
+			<string>Santa Teresa é um bairro de classe média da Zona Central do município do Rio de Janeiro, no estado do Rio de Janeiro, no Brasil. Possui uma exclusiva localização, no alto de uma serra entre as zonas Sul e Central da cidade, que promove uma privilegiada vista para essas áreas. Assim como os bairros vizinhos Glória e Catete, é conhecido pelas construções históricas do século XIX, além de elegantes casarões construídos até os anos 1940. Mas o principal diferencial do bairro é que foi o único da cidade que manteve o bonde como meio de transporte até os dias de hoje. Além da Glória e Catete, também faz limite com os bairros de Laranjeiras, Cosme Velho, Botafogo e Humaitá na Zona Sul; Alto da Boa Vista, na Zona Norte; e Centro, Lapa, Rio Comprido, Catumbi e Cidade Nova, na Zona Central. Seu índice de desenvolvimento humano, no ano 2000, era de 0,878, o 34º melhor da cidade do Rio de Janeiro.</string>
+			<key>address</key>
+			<string>Santa Teresa, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Cultura</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>tree.jpg</string>
+			<key>bairro</key>
+			<string>Santa Teresa</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Santa_Teresa_(bairro_do_Rio_de_Janeiro)</string>
+			<key>detalheFoto</key>
+			<string>santaTeresaD.jpg</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Teatro Municipal do Rio de Janeiro</string>
+			<key>image</key>
+			<string>teatroMunicipal.jpg</string>
+			<key>description</key>
+			<string>O Teatro Municipal do Rio de Janeiro localiza-se na Cinelândia (Praça Marechal Floriano), no centro da cidade do Rio de Janeiro (RJ), no Brasil. Inaugurado em 1909, como parte do conjunto arquitetônico das Obras de Reurbanização da Cidade do Rio de Janeiro (RJ), e abertura da Avenida Central, durante a prefeitura de Pereira Passos, exerce desde sua inauguração um importante papel para a cultura carioca e nacional, recebendo em seu palco importantes artistas, orquestras e companhias de Balet.</string>
+			<key>address</key>
+			<string>Praça Floriano, S/N - Centro, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Teatro</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>home.jpg</string>
+			<key>bairro</key>
+			<string>Centro</string>
+			<key>wiki</key>
+			<string>https://pt.wikipedia.org/wiki/Teatro_Municipal_do_Rio_de_Janeiro</string>
+			<key>detalheFoto</key>
+			<string>teatroMunicipalD.jpg</string>
+		</dict>
+	</array>
+</dict>
+</plist>

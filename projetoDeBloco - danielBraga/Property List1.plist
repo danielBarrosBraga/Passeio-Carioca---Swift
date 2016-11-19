@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>barros</key>
+	<array/>
+	<key>pontosTuristicos</key>
+	<array>
+		<dict>
+			<key>nome</key>
+			<string>Pão de Açucar</string>
+			<key>image</key>
+			<string>paoDeAcucar.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Av. Pasteur, 520 - Urca, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Montanha</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente ao ar livre</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Cristo Redentor</string>
+			<key>image</key>
+			<string>cristoRedentor.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Manumento</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente ao ar livre</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Estádio Maracanã</string>
+			<key>image</key>
+			<string>estadioMaracana.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Av. Pres. Castelo Branco, Portão 3 - Maracanã, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Centro Esportivo</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente ao ar livre</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Teatro Municipal do Rio de Janeiro</string>
+			<key>image</key>
+			<string>teatroMunicipal.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Praça Floriano, S/N - Centro, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Teatro</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente fechado</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Parque Nacional da Tijuca</string>
+			<key>image</key>
+			<string>parqueNacionalDaTijuca.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Estrada da Cscatinha, 850 - Alto da Boa Vista, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Parque</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente ao ar livre</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Jardim Botânico do Rio de Janeiro</string>
+			<key>image</key>
+			<string>jardinBotanicoRJ.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>R. Jardim Botânico, 1008 - Jardim Botânico, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Parque</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente ao ar livre</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Museu Nacional de Belas Artes</string>
+			<key>image</key>
+			<string>museuNacionalDeBelasArtes.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Av. Rio Branco, 199 - Centro, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Museu</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente fechado</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Igreja de Nossa Senhora da Candelária</string>
+			<key>image</key>
+			<string>igrejaDeNossaSenhoraDaCandelaria.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Praça Pio X, s/n - Centro, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Igreja</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente fechado</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Catedral de São Sebastião do Rio de Janeiro</string>
+			<key>image</key>
+			<string>catedralDeSaoSebastiao.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Av. Chile, 245 - Centro, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Igreja</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente fechado</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Forte de Copacabana</string>
+			<key>image</key>
+			<string>forteDeCopacabana.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Av. Atlântica, Posto 6 - Copacabana, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Museu</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente ao ar livre</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Quinta da Boa Vista</string>
+			<key>image</key>
+			<string>quintaDaBoaVista.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Av. Pedro II, s/n - São Cristóvão, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Parque</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente ao ar livre</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Praia de Copacabana</string>
+			<key>image</key>
+			<string>praiaDeCopacabana.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Av. Atlântica, S/N - Copacabana, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Praia</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente ao ar livre</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Museu de Arte Moderna do Rio de Janeiro</string>
+			<key>image</key>
+			<string>museuDeArteModerna.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Av. Infante Dom Henrique, 85 - Parque do Flamengo, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Museu</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente fechado</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Biblioteca Nacional do Brasil</string>
+			<key>image</key>
+			<string>bibliotecaNacionalDoBrasil.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Av. Rio Branco, 219 - Centro, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Biblioteca</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente fechado</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Museu Aeroespacial</string>
+			<key>image</key>
+			<string>museuAeroespacial.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Av. Marechal Fontenele, 2000 - Campo dos Afonsos, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Museu</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente Fechado</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Aterro do Flamengo</string>
+			<key>image</key>
+			<string>aterroDoFlamengo.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Av. Infante Dom Henrique, 10 - Glória, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Parque</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente ao ar livre</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Praia de Ipanema</string>
+			<key>image</key>
+			<string>praiaDeIpanema.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Av. Vieira Souto, S/N - Ipanema, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Praia</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente ao ar livre</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Lagoa Rodrigo de Freitas</string>
+			<key>image</key>
+			<string>lagoaRodrigoDeFreitas.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Av. Borges de Medeiros, S/N - Lagoa, Rio De Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Lagoa</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente ao ar livre</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Museu do Amanhã</string>
+			<key>image</key>
+			<string>museuDoAmanha.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Praça Mauá, 1 - Centro, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Museu</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente fechado</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Lapa</string>
+			<key>image</key>
+			<string>lapa.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Lapa, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Arte, Cultura e Gastronomia</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente fechado</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Centro Luiz Gonzaga de Tradições Nordestinas</string>
+			<key>image</key>
+			<string>centroLuizGonzaga.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Campo de São Cristóvão, s/n - São Cristóvão, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Cultura</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente fechado</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Santa Teresa</string>
+			<key>image</key>
+			<string>santaTeresa.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>Santa Teresa, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Arte e Cultura</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente ao ar livre</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Parque Lage</string>
+			<key>image</key>
+			<string>parqueLage.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>R. Jardim Botânico, 414 - Jardim Botânico, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Parque</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente ao ar livre</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Centro Cultural Banco do Brasil</string>
+			<key>image</key>
+			<string>centroCulturalBancoDoBrasil.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>R. Primeiro de Março, 66 - Centro, Rio de Janeiro - R</string>
+			<key>tipo</key>
+			<string>Arte</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente fechado</string>
+		</dict>
+		<dict>
+			<key>nome</key>
+			<string>Confeitaria Colombo</string>
+			<key>image</key>
+			<string>confeitariaColombo.jpg</string>
+			<key>description</key>
+			<string></string>
+			<key>address</key>
+			<string>R. Gonçalves Dias, 32 - Centro, Rio de Janeiro - RJ</string>
+			<key>tipo</key>
+			<string>Restaurante</string>
+			<key>nota</key>
+			<string>Nota 5/5</string>
+			<key>indoorOutdoor</key>
+			<string>Ambiente fechado</string>
+		</dict>
+	</array>
+</dict>
+</plist>
